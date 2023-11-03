@@ -1,0 +1,21 @@
+.app{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer{
+    position: fixed;
+    bottom: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.footer span{
+    color: #205fff;
+}
+
+.footer img{
+    vertical-align: middle;
+    height: 25px;
+}
